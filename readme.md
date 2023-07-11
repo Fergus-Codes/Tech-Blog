@@ -57,9 +57,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 # Description
 
-This simple employee tracker app was designed to allow employers to view, add and edit data on their database.
-It is all done through the terminal, so no browser is required to run this app.
-A sample database has been created specifically for this application which can be found in the db folder.
+A simple tech blog to communicate and discuss tech related topics with other users.
 
 
 # Screenshot of the application
